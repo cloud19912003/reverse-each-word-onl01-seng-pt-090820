@@ -1,3 +1,3 @@
-def reverse_each_word(sentance1)
+def reverse_each_word(sentance)
   
 end
